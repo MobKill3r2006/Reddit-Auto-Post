@@ -99,4 +99,4 @@ If you would like to donate, these are the different options. Please contact me 
 
 **Ethereum:** 0xC77676C27C7084c1848Bc05e74654E131b013e49
 
-**Paypal:** [Paypal.me](paypal.me/WJoosen "Paypal.me")
+**Paypal:** [Paypal.me](http://paypal.me/WJoosen "Paypal.me")
