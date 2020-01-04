@@ -1,0 +1,12 @@
+{
+    "config": {
+      "password": "password123",
+      "client_id": "client_id123abc456def789",
+      "client_secret": "client_secret123abc456def789",
+      "username": "RedditUsername",
+      "user_agent": "App description",
+      "subreddit": "devreddit",
+      "time": "21600",
+      "title": "Post title shown on reddit"
+    }
+  }
