@@ -88,3 +88,13 @@ After following the exact steps on how to install this project, you can finally 
 Distributed under the MIT license.
 
 [https://github.com/MobKill3r2006/](https://github.com/MobKill3r2006/ "My github page")
+
+## Donating
+
+If you would like to donate, these are the different options. Please contact me if you want to donate via another way.
+
+**Bitcoin:** 3Bqgz7EBzKZ6NWUAtidAnA37qVNnJsvMEV
+
+**Ethereum:** 0xC77676C27C7084c1848Bc05e74654E131b013e49
+
+**Paypal:** [Paypal.me](paypal.me/WJoosen "Paypal.me")
