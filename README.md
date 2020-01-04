@@ -15,7 +15,7 @@ Windows:
    ```
    * Go into the cloned folder
    ```
-   $ cd RedditBotAutoPost
+   $ cd Reddit-Auto-Post
    ```
    * Install the requirements for the project
    ```
