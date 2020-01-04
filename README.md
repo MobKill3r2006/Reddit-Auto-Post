@@ -89,6 +89,8 @@ Distributed under the MIT license.
 
 [https://github.com/MobKill3r2006/](https://github.com/MobKill3r2006/ "My github page")
 
+**Discord:** 6es9egen#7155
+
 ## Donating
 
 If you would like to donate, these are the different options. Please contact me if you want to donate via another way.
