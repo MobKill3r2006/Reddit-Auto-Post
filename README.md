@@ -80,4 +80,6 @@ After following the exact steps on how to install this project, you can finally 
 
 ## Meta
 
+Distributed under the MIT license.
+
 [https://github.com/MobKill3r2006/](https://github.com/MobKill3r2006/ "My github page")
