@@ -70,6 +70,7 @@ After following the exact steps on how to install this project, you can finally 
   * Go to [r/testingground4bots/new](http://www.reddit.com/r/testingground4bots/new "Testingground4bots subreddit") and check if you see your post!
 
 **TO ACTUALLY AUTOMATICALLY POST YOU NEED TO HOST YOUR BOT ON A SERVER OR KEEP THE BOT RUNNING ON YOUR PC.** 
+
 **SERVER RECOMMENDATION: [Heroku](http://heroku.com/ "Heroku.com")**
 
 ## Release History
