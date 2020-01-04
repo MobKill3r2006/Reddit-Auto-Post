@@ -34,7 +34,9 @@ Windows:
    * Optional: Enter a description
    * The redirect uri is not used in this project, so you can just fill in something random like: **http://www.example.com**
    * Click create app
+   
    Make sure to keep this page open as we need the information on it later.
+   
 * Modify ```config.json```
    * Open config.json
    * Edit the values to your personal information
