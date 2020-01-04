@@ -21,6 +21,8 @@ Windows:
    ```
    $ pip install requirements.txt
    ```
+     * If that doesn't work try `pip install --upgrade praw`
+     
 * Creating the required assets on Reddit
 
    **The posts are made on the account that makes the app, so if you don't want the posts to show on your main account, I suggest you        create a second one**
