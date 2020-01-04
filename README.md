@@ -11,7 +11,7 @@ Windows:
 * Installing the required files
    * Clone this project to your local project folder
    ```
-   $ git clone https://github.com/MobKill3r2006/RedditBotAutoPost.git
+   $ git clone https://github.com/MobKill3r2006/Reddit-Auto-Post.git
    ```
    * Go into the cloned folder
    ```
