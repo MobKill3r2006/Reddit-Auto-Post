@@ -20,8 +20,9 @@ Windows:
    * Install the requirements for the project
    ```
    $ pip install requirements.txt
+   If that doesn't work:
+   $ pip install --upgrade praw
    ```
-     * If that doesn't work try `pip install --upgrade praw`
      
 * Creating the required assets on Reddit
 
